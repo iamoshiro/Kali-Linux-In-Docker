@@ -22,7 +22,7 @@ chmod +x install.sh
 ./install.sh
 ~~~
 * If you need use the novnc uncomment the dockerfile and bug001.sh.
-* The default password to VNC is 1q2w3e, recommend change:
+* I created the default password to VNC like as 1q2w3e, recommend change:
 ~~~shell
 docker exec -i kali vncpasswd
 ~~~
