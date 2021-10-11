@@ -2,6 +2,11 @@
 
 Consult the article (writted in Brazil Portuguese) complete on [Medium](https://medium.com/@iamoshiro/kali-linux-em-docker-452df0ce211e).
 
+## Pre-requisitions
+
+1. Docker installed.
+2. 5 GB available in your hard drive.
+
 ## Instructions
 
 1. Clone the repository
