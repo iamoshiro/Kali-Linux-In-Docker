@@ -1,4 +1,4 @@
-# Caso necessite usar o novnc basta descomentar a linha comentada, não esqueça de descomentar em bug001.sh também!
+# If you need to use novnc just uncomment the commented line, don't forget to uncomment in bug001.sh too!
 FROM kalilinux/kali-bleeding-edge
 COPY bug001.sh /
 RUN apt -y update && \
