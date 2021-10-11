@@ -1,6 +1,6 @@
 # Kali Linux in Docker
 
-Consult the article (writted in Brazil Portuguese) complete on [Medium](https://www.linkedin.com/in/iamoshiro/).
+Consult the article (writted in Brazil Portuguese) complete on [Medium](https://medium.com/@iamoshiro/kali-linux-em-docker-452df0ce211e).
 
 ## Instructions
 
